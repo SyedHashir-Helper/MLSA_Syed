@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/image3.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "Image containing text do something great!!!";
 
 /**
  * Project list
@@ -31,16 +31,16 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Merchant Monetary System",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "A Product Management and Smooth Delivery system",
+    url: "https://gitlab.com/hamadhassan/cs261f22finalpid11",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Falcon Student Maintainer",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "A complete course maintainer system with attendance and assessment evaluation",
+    url: "https://gitlab.com/SyedHashir-Helper/cs262s23cs01",
   },
   {
     title: "My Resume Site",
@@ -49,10 +49,10 @@ const projectList = [
     url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Microsoft Learn Student Ambassador Initial Video",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "A 2-minute talk on how i will connect a diverse community together",
+    url: "https://youtu.be/2KxSG8iXOUk",
   },
 ];
 
